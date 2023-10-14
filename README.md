@@ -10,7 +10,7 @@ Currently, I am a research intern at the Indian Institute of Technology, Roorkee
 My primary research interest and expertise lies in the domains of reinforcement learning and computer vision, and I have multiple certifications, publications, and patents in these fields. I have also developed the official website of thrustMIT from scratch, and won the second place at the Design Dentaverse 1.0 Hackathon with a smart wearable technology for posture correction. I am always eager to learn and explore new fields and work on multi-disciplinary projects.
 
 <div align="center">
-<a href="https://drive.google.com/file/d/1g-qKDwkRSJB5oJ_udrdzCuV_qJli_Qds/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1wV4Yv2kDOhEHLtqO4oUclu-tawLpxROF/view?usp=drive_link">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/utkarsh-anand-93260617b/">

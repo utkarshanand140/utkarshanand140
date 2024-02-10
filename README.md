@@ -3,11 +3,11 @@
 
 
 ### About Me 👋
-As a senior undergraduate student pursuing a Bachelor of Technology in Electrical and Electronics Engineering from Manipal Institute of Technology, I am passionate about applying artificial intelligence to solve problems in various domains, such as rocketry, bio-medical imaging, and electrical engineering. 
+As a senior undergraduate student pursuing a Bachelor of Technology in Electrical and Electronics Engineering from Manipal Institute of Technology, I am passionate about applying artificial intelligence to solve problems in various domains, such as rocketry, robotics etc.
 
-Currently, I am a research intern at the Indian Institute of Technology, Roorkee, and the Indian Institute of Science, working on projects related to IoT, power electronics, and materials engineering. Previously, I was a summer research fellow at IISc, where I received the prestigious IASc-INSA-NASI Summer Research Fellowship, and an intern at DRDO, where I worked on image processing and computer vision. I am also the payload head at thrustMIT, a student team that designs and launches solid propellant based sounding rockets, and a Tripoli certified rocketeer. 
+I have previously worked as a Research Intern at various prestigious institutions like Boltzmann Labs, IIT Roorkee, IISc Bangalore, IIT Bombay, DRDO etc. I was awarded the prestigious IASc‐INSA‐NASI Summer Research Fellowship by Indian Academy of Sciences in 2022.
 
-My primary research interest and expertise lies in the domains of reinforcement learning and computer vision, and I have multiple certifications, publications, and patents in these fields. I have also developed the official website of thrustMIT from scratch, and won the second place at the Design Dentaverse 1.0 Hackathon with a smart wearable technology for posture correction. I am always eager to learn and explore new fields and work on multi-disciplinary projects.
+I am currently working as a Robotics Embedded Systems Intern at Chirathe Robotics, ARTPARK, Indian Institute of Sciences, Bangalore.
 
 <div align="center">
 <a href="https://utkarshanand221.netlify.app/">

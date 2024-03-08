@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/1160317501519953990/1160528775528861766/1674127174746.jpeg?ex=6534fda5&is=652288a5&hm=e1906103a8c743bc04fa59a3423cb2f41d8a3a11014878452a729741104c8678&=" alt="name banner" />
+<img src="https://media.discordapp.net/attachments/1160317501519953990/1160528775528861766/1674127174746.jpeg?ex=65f6ca25&is=65e45525&hm=fc8a474cb0edcfe589e71336e1e3a3f26902ca057c711170eb761cc0c69c07f1&=&format=webp" alt="name banner" />
 
 
 

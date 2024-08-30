@@ -1,13 +1,7 @@
-<img src="https://media.discordapp.net/attachments/1160317501519953990/1160528775528861766/1674127174746.jpeg?ex=661bb425&is=66093f25&hm=08940d095496af045016549f05e4a4aaf160cd452f97773359c8e4b4d8b3601d&=&format=webp&width=550&height=138" alt="name banner" />
-
-
-
 ### About Me 👋
-As a senior undergraduate student pursuing a Bachelor of Technology in Electrical and Electronics Engineering from Manipal Institute of Technology, I am passionate about applying artificial intelligence to solve problems in various domains, such as rocketry, robotics etc.
+I am an Electrical Engineering Graduate who is interested in solving problems in the domain of Systems Engineering for Aerospace & Robotics.
 
-I have previously worked as a Research Intern at various prestigious institutions like Boltzmann Labs, IIT Roorkee, IISc Bangalore, IIT Bombay, DRDO etc. I was awarded the prestigious IASc‐INSA‐NASI Summer Research Fellowship by Indian Academy of Sciences in 2022.
-
-I am currently working as a Robotics Embedded Systems Intern at Chirathe Robotics, ARTPARK, Indian Institute of Sciences, Bangalore.
+I am currently working as a Robotics Engineer at Strider Robotics, AI & Robotics Technology Park (ARTPARK), Indian Institute of Sciences, Bangalore.
 
 <div align="center">
 <a href="https://utkarshanand221.netlify.app/">

@@ -1,7 +1,7 @@
 ### About Me 👋
-I am an Electrical Engineering Graduate who is interested in solving problems in the domain of Systems Engineering for Aerospace & Robotics.
+I am an Electrical Engineering Graduate who is interested in solving problems in the domain of Robotic Systems.
 
-I am currently working as a Robotics Engineer at Strider Robotics, AI & Robotics Technology Park (ARTPARK), Indian Institute of Sciences, Bangalore.
+I am currently working as an Associate Electrical Systems Engineer at Strider Robotics, AI & Robotics Technology Park (ARTPARK) @ Indian Institute of Sciences, Bangalore.
 
 <div align="center">
 <a href="https://utkarshanand221.netlify.app/">

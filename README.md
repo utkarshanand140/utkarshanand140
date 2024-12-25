@@ -1,5 +1,5 @@
 ### About Me 👋
-I am an Electrical Engineering Graduate who is interested in solving problems in the domain of Robotic Systems.
+I am an Electrical Engineer who is interested in solving problems in the domain of Robotic Systems.
 
 I am currently working as an Associate Electrical Systems Engineer at Strider Robotics, AI & Robotics Technology Park (ARTPARK) @ Indian Institute of Sciences, Bangalore.
 

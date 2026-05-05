@@ -1,19 +1,45 @@
-### About Me 👋
-M.Sc. Robotics Systems Engineering @ RWTH Aachen
+## About Me 👋
+M.Sc. Robotics Systems Engineering @ RWTH Aachen University  
 
-#### Research Focus
-Robust autonomous robotic systems, legged robotics, and extreme-environment autonomy.
+I work on building robust, real-world robotic systems by combining perception, control, and system-level engineering. My recent work focuses on LiDAR and stereo vision-based perception pipelines using ROS2, with an emphasis on reliability in challenging environments.
 
-#### Technical Interests
-- Control and state estimation
-- System-level integration
-- Energy-aware robotic architectures
-- Deployment-ready autonomy
+---
 
-#### Past Projects
-- STEWIE – CubeSat stabilization manipulator
-- Quadruped battery & safety systems
-- VisionTag – automated dataset annotation
+## Research Focus
+- Robust autonomous robotic systems in real-world conditions  
+- Perception-driven robotics (LiDAR, stereo vision, 3D point clouds)  
+- Legged robotics and deployment-ready autonomy  
+- System-level integration of sensing, control, and computation  
+
+---
+
+## Technical Interests
+- Robot perception (3D vision, sensor fusion, point cloud processing)  
+- Control and state estimation  
+- System-level integration and robotics architectures  
+- Energy-aware robotic systems  
+- Reliable autonomy in unstructured and extreme environments  
+
+---
+
+## Past Projects
+- **LiDAR & Stereo Sensor Reliability (ROS2)**  
+  Evaluated perception robustness using 3D point cloud data under noise, occlusion, and environmental disturbances  
+
+- **STEWIE – CubeSat Stabilization Manipulator**  
+  Designed 3-DOF stabilization system with PID control and Kalman filter-based state estimation  
+
+- **Quadruped Robot Systems (Strider Robotics)**  
+  Worked on battery systems, embedded architectures, and safety-critical subsystems  
+
+- **VisionTag – Automated Annotation Tool**  
+  Built OpenCV-based system reducing dataset annotation time by ~96%
+
+
+  ## Currently Exploring
+- Sensor fusion for robust perception in degraded environments  
+- Simulation-to-real transfer for perception systems  
+- Learning-based methods for robotic perception  
 
 
 
